@@ -94,6 +94,7 @@ body {
 
 .prev { left: 10px; }
 .next { right: 10px; }
+
 @media (min-width: 601px) and (max-width: 1024px) {
   .container {
     width: 90%;
@@ -120,4 +121,5 @@ body {
     width: 700px;
   }
 }
+
 
